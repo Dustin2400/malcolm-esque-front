@@ -54,7 +54,7 @@ export class StoryComponent implements OnInit {
               "_id": "62e70ba0e773003bf0c47748",
               "type": "image",
               "text": "Upwards of a million people protesting the eventual Chinese takeover of Hong Kong.",
-              "url": "https://i.imgur.com/IrbVV5t.jpg"
+              "url": "assets/images/wide.jpg"
           },
           {
               "_id": "62e70ba0e773003bf0c47749",
@@ -66,7 +66,7 @@ export class StoryComponent implements OnInit {
               "_id": "62e70ba0e773003bf0c4774a",
               "type": "image",
               "text": "A massive opium stash.",
-              "url": "https://i.imgur.com/mKchkXm.jpg"
+              "url": "assets/images/stash.jpg"
           },
           {
               "_id": "62e70ba0e773003bf0c4774b",
@@ -78,7 +78,7 @@ export class StoryComponent implements OnInit {
               "_id": "62e70ba0e773003bf0c4774c",
               "type": "image",
               "text": "A group of opium addicts get lit.",
-              "url": "https://i.imgur.com/6qpaj1f.jpg"
+              "url": "assets/images/drug-den.jpg"
           },
           {
               "_id": "62e70ba0e773003bf0c4774d",
@@ -90,7 +90,7 @@ export class StoryComponent implements OnInit {
               "_id": "62e70ba0e773003bf0c4774e",
               "type": "image",
               "text": "A battle between Chinese and British naval forces in the South China Sea.",
-              "url": "https://i.imgur.com/jjEQfIw.jpg"
+              "url": "assets/images/naval-battle.jpg"
           },
           {
               "_id": "62e70ba0e773003bf0c4774f",
@@ -102,7 +102,7 @@ export class StoryComponent implements OnInit {
               "_id": "62e70ba0e773003bf0c47750",
               "type": "image",
               "text": "Upwards of a million people protesting the eventual Chinese takeover of Hong Kong.",
-              "url": "https://i.imgur.com/6L6tOC5.jpg"
+              "url": "assets/images/tyrrany.jpg"
           },
           {
               "_id": "62e70ba0e773003bf0c47751",
@@ -114,7 +114,7 @@ export class StoryComponent implements OnInit {
               "_id": "62e70ba0e773003bf0c47752",
               "type": "image",
               "text": "More protesters express discontent.",
-              "url": "https://i.imgur.com/mKVshB6.jpg"
+              "url": "assets/images/protest.jpg"
           },
           {
               "_id": "62e70ba0e773003bf0c47753",

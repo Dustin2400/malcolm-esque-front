@@ -27,7 +27,7 @@ export class HomeComponent implements OnInit {
                   "_id": "62e70ba0e773003bf0c47748",
                   "type": "image",
                   "text": "Upwards of a million people protesting the eventual Chinese takeover of Hong Kong.",
-                  "url": "https://i.imgur.com/IrbVV5t.jpg"
+                  "url": "assets/images/wide.jpg"
               },
               {
                   "_id": "62e70ba0e773003bf0c47749",
