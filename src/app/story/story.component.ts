@@ -102,7 +102,7 @@ export class StoryComponent implements OnInit {
               "_id": "62e70ba0e773003bf0c47750",
               "type": "image",
               "text": "Upwards of a million people protesting the eventual Chinese takeover of Hong Kong.",
-              "url": "assets/images/tyrrany.jpg"
+              "url": "assets/images/tyranny.jpg"
           },
           {
               "_id": "62e70ba0e773003bf0c47751",
